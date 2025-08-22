@@ -22,15 +22,6 @@ A simple and interactive **BMI (Body Mass Index) Calculator** built with **HTML,
 
 ---
 
-## 📦 How to Run Locally
-
-1. **Clone this repository**:
-
-```bash
-git clone https://github.com/MDharshan27/BMI-Calculator
-
----
-
 ## 📸 Screenshots
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/67a2f414-4c96-49c9-b9b6-5ea13e4e4778" />
@@ -46,11 +37,16 @@ bmi-calculator/
 -images/ # Any images used
 -index.html # Main page
 
+---
+
 ## 🤝 Author
 
----
 👨‍💻 Mohana Dharshan
 🐙 GitHub: [github.com/MDharshan27](https://github.com/MDharshan27)
 💼 LinkedIn: [linkedin.com/in/mdharshan](https://www.linkedin.com/in/mdharshan)
 🌐 Portfolio: [mdharshan27.github.io/Portfolio](https://mdharshan27.github.io/Protfolio/)
+
+---
+
+
 
