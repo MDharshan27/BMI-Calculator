@@ -32,16 +32,16 @@ A simple and interactive **BMI (Body Mass Index) Calculator** built with **HTML,
 ## 📂 Folder Structure
 
 bmi-calculator/
-- css/ #Stylesheets
-- js/ #JavaScript functionality
-- images/ #Any images used
-- index.html #Main page
+- css/ # Stylesheets
+- js/ # JavaScript functionality
+- images/ # Any images used
+- index.html # Main page
 
 ---
 
 ## 🤝 Author
 
-- 👨‍💻 Mohana Dharshan
+👨‍💻 Mohana Dharshan
 - 🐙 [GitHub](https://github.com/MDharshan27)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mdharshan)
 - 🌐 [Portfolio Website](https://mdharshan27.github.io/Protfolio/)
